@@ -1,7 +1,7 @@
 ; JGE / JNL → Jump if Greater or Equal
 section .data
-    msg_ge db "AX >= BX (Signed Greater or Equal)",10,0
-    msg_less db "AX < BX (Signed Less)",10,0
+    msg_ge db "Hello, This is Parneet Kaur, Student No:166985",10,0
+    msg_less db "Hello, This is Parneet Kaur, Student No:166985",10,0
 
 section .text
     global _start
